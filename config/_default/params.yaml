@@ -41,7 +41,7 @@ header:
 
 footer:
   copyright:
-    notice: 'This work is licensed under [**CC BY NC ND 4.0**](https://creativecommons.org/licenses/by-nc-nd/4.0/)'
+    notice: '© 2022 Panagiotis N. Chatzinikolaou. This work is licensed under [**CC BY NC ND 4.0**](https://creativecommons.org/licenses/by-nc-nd/4.0/)'
     license:
       enable: true
       allow_derivatives: false
