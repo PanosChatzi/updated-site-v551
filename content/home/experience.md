@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Research experience
 subtitle:
 
 # Date format for experience
@@ -22,29 +22,42 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Visiting researcher
+    company: Loughborough University
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    company_logo: Lboro_logo
+    location: Loughborough, UK
+    date_start: '2022-03-10'
+    date_end: '2022-04-13'
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
 
+  - title: Visiting researcher
+    company: KU Leuven
+    company_url: ''
+    company_logo: KU_Leuven_logo
+    location: Leuven, Belgium
+    date_start: '2020-01-15'
+    date_end: '2020-07-15'
+    description: |2-
+        Responsibilities included:
+        
+        * Cardiopulmonary exercise tests and functional capacity assessments in patients with cardiovascular diseases.
+        * Processing and analysis of muscle oxygenation data.
+        * Participation in journal clubs and weekly lab meetings.
+        
+  - title: Research internship
+    company: Humboldt University of Berlin
+    company_url: ''
+    company_logo: Huberlin-logo
+    location: Berlin, Germany
+    date_start: '2019-09-15'
+    date_end: '2019-12-15'
+    description: |2-
+        Responsibilities included:
+        
+        * Ultrasound imaging during isokinetic dynamometry and treadmill tests.
+        * Kinematic analysis of treadmill walking and running.
+        * Image and video analysis of the muscle-tendon unit.
 design:
   columns: '2'
 ---
